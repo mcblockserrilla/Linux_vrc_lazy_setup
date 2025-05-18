@@ -11,12 +11,7 @@ No terminal experience needed. Just extract and go.
 ### ✅ Step-by-step:
 
 1. **Extract the folder into your Home directory**  
-   So that you have:
-   ```
-   ~/Program Files/
-     ├── vr-setup.sh
-     └── linux-vr-setup.desktop
-   ```
+   
 
 2. **Make sure the `.desktop` file is executable**  
    - Right-click `linux-vr-setup.desktop`
@@ -44,7 +39,6 @@ No terminal experience needed. Just extract and go.
 ## ⚙️ System Requirements
 
 - Arch-based distro (Manjaro, EndeavourOS, etc.)
-- `yay` installed (`sudo pacman -S yay`)
 - Internet connection
 
 Everything else (Snap, Flatpak, Unity, VR tools) is installed automatically.
